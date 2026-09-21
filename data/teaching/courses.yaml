@@ -2,6 +2,11 @@
 title: Teaching
 courses:
 - year: 2026
+  quarter: F
+  number: Math 247A
+  title: Classical Fourier analysis
+  url: "https://bruinlearn.ucla.edu/courses/237481"
+- year: 2026
   quarter: S
   number: Math 246C
   title: Complex analysis
