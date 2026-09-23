@@ -155,6 +155,12 @@ editions:
     reported_by:
     - David Latorre
     date: '2026-07-29'
+  - id: corrected-fourth-edition-0013
+    page: '81'
+    text: "“and use the familiar” should be “and use the operation of subtraction instead”."
+    reported_by:
+    - David Latorre
+    date: '2026-09-22'
 - id: fourth-edition
   name: Fourth edition
   errata:
