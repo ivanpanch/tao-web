@@ -112,6 +112,12 @@ editions:
 - id: corrected-fourth-edition
   name: Corrected fourth edition
   errata:
+  - id: corrected-fourth-edition-0014
+    page: viii
+    text: "“perservere” should be “persevere”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
   - id: corrected-fourth-edition-0001
     page: '52'
     text: In Remark 3.3.9, “ontheir” is missing a space
