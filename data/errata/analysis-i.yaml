@@ -130,18 +130,24 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
-  - id: corrected-fourth-edition-0017
-    page: '63'
-    text: "“work around” should be “workaround”."
-    reported_by:
-    - Ivan Panchenko
-    date: '2026-09-26'
   - id: corrected-fourth-edition-0001
     page: '52'
     text: In Remark 3.3.9, “ontheir” is missing a space
   - id: corrected-fourth-edition-0002
     page: '54'
     text: In Example 3.3.21, should “but also what its range is” be “but also what its codomain is”?
+  - id: corrected-fourth-edition-0017
+    page: '63'
+    text: "“work around” should be “workaround”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
+  - id: corrected-fourth-edition-0018
+    page: '67'
+    text: "In Remark 4.1.7, the closing parenthesis should come after the full stop (because the whole sentence is enclosed)."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
   - id: corrected-fourth-edition-0003
     page: 101, 133
     text: "Definition 6.1.16 should require $M \\geq 0$ for compatibility with Definition 5.1.12."
