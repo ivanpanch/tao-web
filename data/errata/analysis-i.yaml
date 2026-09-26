@@ -124,9 +124,15 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
-    - id: corrected-fourth-edition-0016
+  - id: corrected-fourth-edition-0016
     page: '29'
     text: "“non-emptyness” should be “non-emptiness”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
+  - id: corrected-fourth-edition-0017
+    page: '63'
+    text: "“work around” should be “workaround”."
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
