@@ -118,6 +118,12 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
+    - id: corrected-fourth-edition-0015
+    page: 28
+    text: "“with sets and not with objects” should be “with sets and not with other objects”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
   - id: corrected-fourth-edition-0001
     page: '52'
     text: In Remark 3.3.9, “ontheir” is missing a space
