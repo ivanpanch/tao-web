@@ -166,6 +166,12 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
+  - id: corrected-fourth-edition-0022
+    page: '84'
+    text: "In Example 5.1.7, the comma before the first opening parenthesis should be removed."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
   - id: corrected-fourth-edition-0003
     page: 101, 133
     text: "Definition 6.1.16 should require $M \\geq 0$ for compatibility with Definition 5.1.12."
