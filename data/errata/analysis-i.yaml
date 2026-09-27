@@ -311,7 +311,7 @@ editions:
     - Ivan Panchenko
     date: '2026-09-27'
   - id: corrected-fourth-edition-0043
-    page: '268'
+    page: 268, 273
     text: "The asterisk should be replaced with a cross for multiplication."
     reported_by:
     - Ivan Panchenko
