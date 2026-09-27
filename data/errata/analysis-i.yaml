@@ -625,7 +625,7 @@ editions:
   - id: fourth-edition-0072
     page: '173'
     text: In Remark 8.3.5, “Exercise 7.2.6” should be “Exercise 7.2.6 of Analysis II“. In Exercise 8.3.2,
-      “a injection” should be “an injection”. In Remark 8.3.6,, replace Exercise 3.6.7 with Exercise 8.3.4.
+      “a injection” should be “an injection”. In Remark 8.3.6, replace Exercise 3.6.7 with Exercise 8.3.4.
   - id: fourth-edition-0073
     page: '174'
     text: "In Example 8.4.2, replace “For any sets $I$ and $X$” with “For any set $X$ and non-empty set\
