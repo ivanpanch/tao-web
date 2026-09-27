@@ -205,6 +205,12 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-27'
+  - id: corrected-fourth-edition-0028
+    page: '162'
+    text: "“certain sets—including the real numbers $\mathbf R$ are” should be “certain sets, including the real numbers $\mathbf R$, are”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0004
     page: '205'
     text: Ex. 8.4.2 “thesets” is missing a space
