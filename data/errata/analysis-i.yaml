@@ -598,7 +598,7 @@ editions:
   - id: fourth-edition-0066
     page: '166'
     text: "In the proof of Theorem 8.2.2 just before the second display, “convergent for each $m$” should\
-      \ be “convergent for each $n$“.. In the second display, the first $\\leq$ sign can be replaced with\
+      \ be “convergent for each $n$“. In the second display, the first $\\leq$ sign can be replaced with\
       \ equality. Two lines later, “Takingsuprema of this” is missing a space. The parenthetical “(Why\
       \ will this be enough? prove by contradiction)” can be replaced by “(see Exercise 5.4.7)”."
   - id: fourth-edition-0067
