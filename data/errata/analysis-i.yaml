@@ -288,10 +288,25 @@ editions:
     date: '2026-09-27'
   - id: corrected-fourth-edition-0039
     page: '252'
-    text: "Definition 11.8.1: Remove the closing square bracket before “Let”."
+    text: "Definition 11.8.1: The closing square bracket before “Let” should be removed."
     reported_by:
     - Ivan Panchenko
     date: '2026-09-27'
+  - id: corrected-fourth-edition-0040
+    page: '253'
+    text: "“equl” should be “equal”."
+    reported_by:
+    - Ivan Panchenko
+  - id: corrected-fourth-edition-0041
+    page: '253'
+    text: "Example 11.8.3: A period is missing before “Thus”."
+    reported_by:
+    - Ivan Panchenko
+  - id: corrected-fourth-edition-0042
+    page: '260'
+    text: "“differentable” should be “differentiable”."
+    reported_by:
+    - Ivan Panchenko
   - id: corrected-fourth-edition-0009
     page: '283'
     text: start of section 11.4, Proposition 8.3.3 should be “of Analysis II”
