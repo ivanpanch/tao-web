@@ -112,6 +112,12 @@ editions:
 - id: corrected-fourth-edition
   name: Corrected fourth edition
   errata:
+  - id: corrected-fourth-edition-0027
+    page: null
+    text: "When a period or comma follows an ellipsis, there should be as much space between it and the last ellipsis point as between the ellipsis points."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0014
     page: viii
     text: "“perservere” should be “persevere”."
