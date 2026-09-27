@@ -150,7 +150,7 @@ editions:
     date: '2026-09-26'
   - id: corrected-fourth-edition-0018
     page: '67'
-    text: "In Remark 4.1.7, the closing parenthesis should come after the full stop (because the whole sentence is enclosed)."
+    text: "In Remark 4.1.7, the closing parenthesis should come after the period (because the whole sentence is enclosed)."
     reported_by:
     - Ivan Panchenko
     date: '2026-09-26'
@@ -201,7 +201,7 @@ editions:
     date: '2026-09-27'
   - id: corrected-fourth-edition-0026
     page: '162'
-    text: "In the proof of Corollary 8.1.11, “are countable” should be “are countable”. There also should be a period at the end of the proof."
+    text: "In the proof of Corollary 8.1.11, “are countable” should be “is countable”. There also should be a period at the end of the proof."
     reported_by:
     - Ivan Panchenko
     date: '2026-09-27'
