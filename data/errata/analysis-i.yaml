@@ -280,6 +280,12 @@ editions:
   - id: corrected-fourth-edition-0008
     page: "?"
     text: In Section 10.2, an exercise to prove Darboux’ theorem can be added.
+  - id: corrected-fourth-edition-0038
+    page: '251'
+    text: "“Non-riemann” should be “Non-Riemann”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0009
     page: '283'
     text: start of section 11.4, Proposition 8.3.3 should be “of Analysis II”
