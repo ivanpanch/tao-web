@@ -223,6 +223,12 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-27'
+  - id: corrected-fourth-edition-0035
+    page: 204, 205, 206
+    text: "The “min” and “max” subscripts should not be italicized."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0004
     page: '205'
     text: Ex. 8.4.2 “thesets” is missing a space
