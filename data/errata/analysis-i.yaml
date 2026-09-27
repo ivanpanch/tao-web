@@ -307,6 +307,11 @@ editions:
     text: "“differentable” should be “differentiable”."
     reported_by:
     - Ivan Panchenko
+  - id: corrected-fourth-edition-0043
+    page: '268'
+    text: "The asterisk should be replaced with a cross for multiplication."
+    reported_by:
+    - Ivan Panchenko
   - id: corrected-fourth-edition-0009
     page: '283'
     text: start of section 11.4, Proposition 8.3.3 should be “of Analysis II”
