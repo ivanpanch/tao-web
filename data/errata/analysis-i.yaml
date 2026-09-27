@@ -232,6 +232,24 @@ editions:
     reported_by:
     - Ivan Panchenko
     date: '2026-09-27'
+  - id: corrected-fourth-edition-0032
+    page: '208'
+    text: "In Remark 9.7.3, the superscript “th” should not be italicized."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
+  - id: corrected-fourth-edition-0033
+    page: '208'
+    text: "In Exercise 9.7.2, “which play” should be “which plays”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
+  - id: corrected-fourth-edition-0034
+    page: '209'
+    text: "In Example 9.8.4, the superscript “th” should not be italicized."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0005
     page: '220'
     text: Remark 9.1.25, Theorem 1.5.7 should be “of Analysis II”
