@@ -175,6 +175,12 @@ editions:
   - id: corrected-fourth-edition-0003
     page: 101, 133
     text: "Definition 6.1.16 should require $M \\geq 0$ for compatibility with Definition 5.1.12."
+  - id: corrected-fourth-edition-0023
+    page: '129'
+    text: "“obijective” should be “bijective”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-26'
   - id: corrected-fourth-edition-0004
     page: '205'
     text: Ex. 8.4.2 “thesets” is missing a space
