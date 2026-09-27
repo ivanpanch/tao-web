@@ -259,6 +259,18 @@ editions:
   - id: corrected-fourth-edition-0005
     page: '220'
     text: Remark 9.1.25, Theorem 1.5.7 should be “of Analysis II”
+  - id: corrected-fourth-edition-0036
+    page: '221'
+    text: "In Remark 10.1.17, “then chain rule” should be “the chain rule”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
+  - id: corrected-fourth-edition-0037
+    page: '227'
+    text: "“(Why? Note that $f^{-1}$ is a bijection).” should be “(Why? Note that $f^{-1}$ is a bijection.)”."
+    reported_by:
+    - Ivan Panchenko
+    date: '2026-09-27'
   - id: corrected-fourth-edition-0006
     page: "?"
     text: In Exercise 9.8.5 (b), add “Is f continuous from the left at r?
